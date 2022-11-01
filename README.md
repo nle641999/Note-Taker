@@ -36,7 +36,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation
 
-run `npm install` in the CLT in order to use the application. Then, use the command `node server.js` in the CLT to run the application LOCALLY. The application is also LIVE on Heroku at 
+run `npm install` in the CLT in order to use the application. Then, use the command `node server.js` in the CLT to run the application LOCALLY. The application is also LIVE on Heroku at https://sleepy-peak-55072.herokuapp.com/ 
 
 ## Usage
 
